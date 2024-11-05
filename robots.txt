@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udadeeco.github.io/FeB/sitemap_index.txt
+Sitemap: https://udadeeco.github.io/MpN/sitemap_index.txt
+Sitemap: https://udadeeco.github.io/RVm/sitemap_index.txt
+Sitemap: https://udadeeco.github.io/ksA/sitemap_index.txt
